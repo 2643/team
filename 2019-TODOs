@@ -1,0 +1,13 @@
+Clean Batcave.
+Repair website.
+Take inventory.
+Clean up code (2018).
+Find new members
+* Get people who know how to code.
+* Middle school demos.
+  * Talk to middle school teachers and principals.
+* Elementary school demos.
+  * Ditto to middle school  
+* Send email out to potential programmers.
+* Check comp sci A class.
+
