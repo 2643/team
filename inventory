@@ -1,0 +1,73 @@
+Inventory: 
+	Cabinet #7
+		Section 1: 
+      Magnetic Gyros
+      FRC Gyros(2)
+      Arduinos(6)
+      Raspberry Pi(2)
+      MicroSD for Raspberry Pi(2)
+    Section 2:
+      Ethernet Cables(36)
+    Section 3: 
+      Joysticks(2)
+      Gamepads(4)
+       -> Don't use the gamepad without the colored buttons
+    Section 4: 
+      USB sticks(5)
+      Mouse(1)
+      Aux. cords(3)
+    Section 5: 
+      Spikes
+      LEDs rings
+      Retroreflective tape
+    Section 6: 
+      Software CDs
+    Section 7: 
+      Cheap linear potentiometers(14)
+      10 turn potentiometers(2)
+      Gyro(2)
+      Servo(1)
+      Misc. (4)
+      Optical sensors(7)
+      Cameras(4)
+      Potentiometers(8)
+      Switches(6)
+      Cheap limit switches(58)
+      Good limit switches(2)
+      Small button sensors(6)
+      Big button sensors(8)
+      RJ45 couplers(5)
+   Section 8:
+      Wireless routers
+        off board and on board the robot
+   Section 9: 
+      Ethernet cable making supplies
+      Power cables
+   Section 10: 
+      XBOX kinect sensor(1)
+      Linksys Simultaneous Dual-N Band Wireless Router(1)
+   Section 11: 
+      Megalpixel Wireless N Internet Camera(3)
+  Below the counter:
+    Box 1:
+      HDMI cable(1)
+      VGA cable(1)
+      Cisco Rollover console cables(5)
+      DB9 cables(5)
+      VGA to ? cable(1)
+      Adapters(2)
+    Box 2: 
+      Random wires
+    Box 3:
+      USB cords(31)
+    Box 4:
+      Static bags
+    Box 5:
+      RSL(6)
+    Box 6:
+      Extension cords(4)
+    Box 7:
+      Power strips(9)
+    Box 8 & 9:
+      Random stuff that is not wires
+    
