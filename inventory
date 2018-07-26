@@ -1,17 +1,16 @@
 Inventory: 
-	Cabinet #7
-		Section 1: 
+Cabinet #7
+    Section 1: 
       Magnetic Gyros
-      FRC Gyros(2)
+      FRC Gyros(3)
       Arduinos(6)
       Raspberry Pi(2)
       MicroSD for Raspberry Pi(2)
     Section 2:
-      Ethernet Cables(36)
+      Ethernet Cables(38)
     Section 3: 
       Joysticks(2)
-      Gamepads(4)
-       -> Don't use the gamepad without the colored buttons
+      Gamepads(3)
     Section 4: 
       USB sticks(5)
       Mouse(1)
@@ -23,7 +22,7 @@ Inventory:
     Section 6: 
       Software CDs
     Section 7: 
-      Cheap linear potentiometers(14)
+      Cheap linear potentiometers(15)
       10 turn potentiometers(2)
       Gyro(2)
       Servo(1)
@@ -31,11 +30,11 @@ Inventory:
       Optical sensors(7)
       Cameras(4)
       Potentiometers(8)
-      Switches(6)
-      Cheap limit switches(58)
-      Good limit switches(2)
+      Switches(14)
+      Cheap limit switches(56)
+      Good limit switches(3)
       Small button sensors(6)
-      Big button sensors(8)
+      Big button sensors(9)
       RJ45 couplers(5)
    Section 8:
       Wireless routers
