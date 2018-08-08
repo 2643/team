@@ -1,0 +1,8 @@
+2017 Port Map:
+  Left Front Motor = 5
+  Left Back Motor = 2
+  Right Front Motor = 6 
+  Right Back Motor = 1
+  
+  Left Encoder = 1, 2
+  Right Encoder = 3, 4
