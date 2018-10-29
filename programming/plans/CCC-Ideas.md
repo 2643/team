@@ -5,6 +5,7 @@
 
 * Solution
 	* These are just ideas
+
 	* Add webcam to robot
 		* Add a HUD on the computer
 		* Add an animation showing where it is going to go
@@ -17,6 +18,7 @@
 		* See if they want any prescripted actions
 		* Check if tey want control system
 	* Vision
+		* Camera Auto Calibrate
 		* Machine learning or 
 		* Stereo for depthmap
 		* Needs to be glorious
