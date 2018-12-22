@@ -1,0 +1,4 @@
+This is the for the square up checkerboard. It is a 9x6 OpenCV checkerboard.
+
+Each square is
+1.755 cm
